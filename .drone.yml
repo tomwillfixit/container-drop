@@ -1,4 +1,4 @@
-#Test Drone Webhook
+#Test Drone Webhook v2
 pipeline:
   build:
     image: container_drop:latest
